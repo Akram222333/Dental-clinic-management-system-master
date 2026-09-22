@@ -65,7 +65,7 @@ The system uses 7 tables:
 
 1. **Clone or download the project**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Dental-clinic-management-system.git
+   git clone https://github.com/Akram222333/Dental-clinic-management-system.git
    ```
 
 2. **Move to your server's root folder**
